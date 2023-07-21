@@ -1,0 +1,255 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#navbar {
+  /* position: fixed; */
+  background-color: rgb(82, 82, 248);
+  height: 50px;
+}
+
+h3 {
+  position: relative;
+  left: 300px;
+  font-family: cursive;
+  color: white;
+}
+
+h6 {
+  position: relative;
+  left: 300px;
+  bottom: 10px;
+  font-style: italic;
+  font-size: 5px;
+  color: white;
+}
+
+i {
+  color: yellow;
+}
+
+input {
+  position: relative;
+  left: 450px;
+  bottom: 60px;
+  right: 20px;
+  height: 30px;
+  width: 25%;
+}
+
+button {
+  position: relative;
+  left: 470px;
+  bottom: 60px;
+  width: 100px;
+  border: none;
+  /* right: 20px; */
+  height: 30px;
+  color: blue;
+  font-size: larger;
+}
+
+ul li {
+  display: flex;
+  justify-content: center;
+}
+
+#a {
+  position: relative;
+  left: 350px;
+  bottom: 85px;
+  color: white;
+}
+#b {
+  position: relative;
+  left: 450px;
+  bottom: 110px;
+  color: white;
+}
+
+#c {
+  position: relative;
+  left: 520px;
+  bottom: 135px;
+  color: rgb(247, 243, 243);
+}
+
+#below_nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.carousel-item {
+  height: 200px;
+}
+
+/* .carousel-control-prev {
+  position: relative;
+  top: 200px;
+} */
+
+#first {
+  /* background-color: black; */
+  position: relative;
+  top: 20px;
+  left: 20px;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#imgsaftcoru {
+  display: flex;
+  justify-content: space-around;
+}
+
+#secondrowofimgs {
+  display: flex;
+  justify-content: space-around;
+}
+
+#second {
+  position: relative;
+  top: 20px;
+  left: 20px;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#thirdrowofimgs {
+  display: flex;
+  justify-content: space-around;
+}
+
+#third {
+  position: relative;
+  top: 20px;
+  left: 20px;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#fourthrowofimgs {
+  display: flex;
+  justify-content: space-around;
+}
+
+#fourth {
+  position: relative;
+  top: 20px;
+  left: 20px;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#fivethrowofimgs {
+  display: flex;
+  justify-content: space-around;
+}
+
+#fiveth {
+  position: relative;
+  top: 20px;
+  left: 20px;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#sixthrowofimgs {
+  display: flex;
+  justify-content: space-around;
+}
+
+#sixth {
+  position: relative;
+  top: 20px;
+  left: 20px;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#seventhrowofimgs {
+  display: flex;
+  justify-content: space-around;
+}
+
+#about {
+  color: white;
+  opacity: 0.5;
+}
+
+footer {
+  background-color: rgb(1, 1, 39);
+  height: 400px;
+}
+
+#olfirst {
+  color: white;
+  position: relative;
+  right: 10px;
+}
+#olfirst:hover {
+  color: white;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+#help {
+  color: white;
+  opacity: 0.5;
+  position: relative;
+  left: 170px;
+  bottom: 210px;
+}
+
+#olsecond {
+  color: white;
+  position: relative;
+  left: 150px;
+  bottom: 210px;
+}
+
+#olsecond:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+#consumer {
+  color: white;
+  opacity: 0.5;
+  position: relative;
+  left: 370px;
+  bottom: 380px;
+}
+
+#olthird {
+  color: white;
+  position: relative;
+  left: 380px;
+  bottom: 380px;
+  /* cursor: pointer; */
+}
+
+#olthird:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+#social {
+  color: white;
+  opacity: 0.5;
+  position: relative;
+  left: 590px;
+  bottom: 600px;
+}
+
+#olfourth {
+  color: white;
+  position: relative;
+  left: 600px;
+  bottom: 600px;
+}
+
+#olfourth:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
